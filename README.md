@@ -1,4 +1,6 @@
 # Automated-Season-shopper-using-selenium
+<strong>With Pylint Rating 10/10</strong>
+<hr>
 This Automated season shopper project takes you through complete shopping from opening the window to the payment with the help of selenium and python.
 <br><strong>Key points according to which This project works</strong>
 <ul>

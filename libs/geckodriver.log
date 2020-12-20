@@ -1,0 +1,52 @@
+1608447808355	geckodriver	INFO	Listening on 127.0.0.1:35683
+1608447808360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH4PogU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608447810714	Marionette	INFO	Listening on port 35529
+1608447810785	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://checkout.stripe.com/m/lib/inner-2b6b2abd2c277935adb4c1ba550b06a3.js, line 6: Invariant Violation: Minified React error #44; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=44 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1608447863707	Marionette	INFO	Stopped listening on port 35529
+1608448412775	geckodriver	INFO	Listening on 127.0.0.1:40153
+1608448412779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile31Wyap"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608448414526	Marionette	INFO	Listening on port 46125
+1608448414602	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608448454261	Marionette	INFO	Stopped listening on port 46125
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608448526305	geckodriver	INFO	Listening on 127.0.0.1:36235
+1608448526309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9qfImj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608448528764	Marionette	INFO	Listening on port 46727
+1608448528839	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608448633042	Marionette	INFO	Stopped listening on port 46727
+1608450632367	geckodriver	INFO	Listening on 127.0.0.1:58097
+1608450632371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileToMfGJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450634318	Marionette	INFO	Listening on port 45785
+1608450634393	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608450671847	Marionette	INFO	Stopped listening on port 45785
+1608450723805	geckodriver	INFO	Listening on 127.0.0.1:57677
+1608450723809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Nduz5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450725821	Marionette	INFO	Listening on port 46519
+1608450725933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: uncaught exception: undefined
+1608450759508	Marionette	INFO	Stopped listening on port 46519
+1608450795461	geckodriver	INFO	Listening on 127.0.0.1:51419
+1608450795466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeqFq77"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450797644	Marionette	INFO	Listening on port 43921
+1608450797698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608450858592	Marionette	INFO	Stopped listening on port 43921
