@@ -1,6 +1,6 @@
 # Automated-Season-shopper-using-selenium
 This Automated season shopper project takes you through complete shopping from opening the window to the payment with the help of selenium and python.
-<br><strong>Key points according to wich This project works</strong>
+<br><strong>Key points according to which This project works</strong>
 <ul>
   <li> It uses the test website: https://weathershopper.pythonanywhere.com/ </li>
   <li> At first it choosed the temperature according to which it will go to the season whether it needs Moisturizers or sunscreens </li>
