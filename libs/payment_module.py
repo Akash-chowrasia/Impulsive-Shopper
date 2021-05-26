@@ -26,7 +26,7 @@ def fill_cart(browser):
         No maters whether it is valid or invalid.
     '''
     browser.switch_to.frame("stripe_checkout_app")
-    browser.find_element_by_xpath("//input[@type = 'email']").send_keys("ahorasia.akashi@gmail.com")
+    browser.find_element_by_xpath("//input[@type = 'email']").send_keys("sample@gmail.com")
     sleep(1)
     browser.find_element_by_xpath("//input[@placeholder = 'Card number']")\
         .send_keys('6011 1111 1111 1117')
@@ -37,8 +37,8 @@ def fill_cart(browser):
     sleep(1)
     browser.find_element_by_xpath("//input[@placeholder = 'ZIP Code']").send_keys('201301')
     sleep(2)
-    browser.find_element_by_xpath("//a[@class = 'Checkbox']").click()
-    browser.find_element_by_xpath("//input[@autocomplete = 'mobile tel']").send_keys('9877870674')
+    # browser.find_element_by_xpath("//a[@class = 'Checkbox']").click()
+    # browser.find_element_by_xpath("//input[@autocomplete = 'mobile tel']").send_keys('9877870674')
 
 def pay(browser):
     '''
@@ -49,4 +49,5 @@ def pay(browser):
     browser.find_element_by_xpath("//button[@type='submit' and \
         @class='Button-animationWrapper-child--primary Button']").click()
     browser.switch_to_default_content()
+    sleep(5)
     return "success" if browser.title == "Confirmation" else "failed"
